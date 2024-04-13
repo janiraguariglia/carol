@@ -1,0 +1,10 @@
+.principal {
+    display: flex;
+    max-width: 1000px;
+    margin: 20px auto;
+    gap: 20px;
+}
+
+.principal img {
+    width: 20%;
+}

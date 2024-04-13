@@ -1,0 +1,23 @@
+.locais {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #4c4c4c;
+    font-size: 32px;
+}
+
+h3, h4 {
+    color: #777777;
+    font-size: 16px;
+}
+
+.principal li {
+    place-self: center;
+    max-width: 450px;
+    width: 450px;
+    text-align: center;
+}
