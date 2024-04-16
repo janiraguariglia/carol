@@ -1,6 +1,9 @@
 body {
     font-family: 'Roboto', sans-serif;
-}
+    background-image: url('/src/style/assets/capadefundo.peg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
 
 .logo {
     width: 60px;
