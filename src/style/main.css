@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-image: url('/src/style/assets/capadefundo.peg.jpg');
+    background-image: linear-gradient(to bottom, orange, yellow, red);
     background-repeat: no-repeat;
     background-size: cover;
 }   
@@ -73,6 +73,7 @@ a:hover {
 
 .rodape {
     border: 2px solid gray;
+    background-color: white;
 }
 
 .principal {
