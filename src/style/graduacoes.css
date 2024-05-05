@@ -14,3 +14,7 @@
     height: 400px;
     object-fit: cover;
 }
+
+.principal ol li {
+    list-style-type: decimal;
+}
