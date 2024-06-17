@@ -22,3 +22,10 @@ form > :nth-child(3) > textarea {
     height: 200px;
 }
 
+.enviar {
+    width: 6%;
+}
+
+.cadastrados {
+    width: 11%;
+}
